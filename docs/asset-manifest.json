@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/diorama-pgm-nicolascnudde/static/css/main.d5880afd.chunk.css",
+    "main.js": "/diorama-pgm-nicolascnudde/static/js/main.d576d513.chunk.js",
+    "main.js.map": "/diorama-pgm-nicolascnudde/static/js/main.d576d513.chunk.js.map",
+    "runtime-main.js": "/diorama-pgm-nicolascnudde/static/js/runtime-main.1fa92581.js",
+    "runtime-main.js.map": "/diorama-pgm-nicolascnudde/static/js/runtime-main.1fa92581.js.map",
+    "static/js/2.0cd63d3c.chunk.js": "/diorama-pgm-nicolascnudde/static/js/2.0cd63d3c.chunk.js",
+    "static/js/2.0cd63d3c.chunk.js.map": "/diorama-pgm-nicolascnudde/static/js/2.0cd63d3c.chunk.js.map",
+    "index.html": "/diorama-pgm-nicolascnudde/index.html",
+    "static/css/main.d5880afd.chunk.css.map": "/diorama-pgm-nicolascnudde/static/css/main.d5880afd.chunk.css.map",
+    "static/js/2.0cd63d3c.chunk.js.LICENSE.txt": "/diorama-pgm-nicolascnudde/static/js/2.0cd63d3c.chunk.js.LICENSE.txt",
+    "static/media/cross.00becc50.glb": "/diorama-pgm-nicolascnudde/static/media/cross.00becc50.glb",
+    "static/media/floor.e6899f2d.glb": "/diorama-pgm-nicolascnudde/static/media/floor.e6899f2d.glb",
+    "static/media/ghosts.35dcfb98.glb": "/diorama-pgm-nicolascnudde/static/media/ghosts.35dcfb98.glb",
+    "static/media/mausoleum.13d94d15.glb": "/diorama-pgm-nicolascnudde/static/media/mausoleum.13d94d15.glb",
+    "static/media/moon.9eeb2943.glb": "/diorama-pgm-nicolascnudde/static/media/moon.9eeb2943.glb",
+    "static/media/pumpkin_1.8a04c354.glb": "/diorama-pgm-nicolascnudde/static/media/pumpkin_1.8a04c354.glb",
+    "static/media/pumpkin_2.2acb767e.glb": "/diorama-pgm-nicolascnudde/static/media/pumpkin_2.2acb767e.glb",
+    "static/media/pumpkin_3.1d099bbe.glb": "/diorama-pgm-nicolascnudde/static/media/pumpkin_3.1d099bbe.glb",
+    "static/media/rocks.89da46dd.glb": "/diorama-pgm-nicolascnudde/static/media/rocks.89da46dd.glb",
+    "static/media/tombstones.5650a1ed.glb": "/diorama-pgm-nicolascnudde/static/media/tombstones.5650a1ed.glb",
+    "static/media/tree.09deba4f.glb": "/diorama-pgm-nicolascnudde/static/media/tree.09deba4f.glb"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fa92581.js",
+    "static/js/2.0cd63d3c.chunk.js",
+    "static/css/main.d5880afd.chunk.css",
+    "static/js/main.d576d513.chunk.js"
+  ]
+}
